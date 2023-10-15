@@ -1,0 +1,16 @@
+.app-footer-wrapper {
+  height: 60px;
+  line-height: 60px;
+  background-color: #eeeeee;
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+}
+
+.app-footer-wrapper > div {
+  display: flex;
+  justify-content: center;
+  font-size: 13px;
+  font-weight: bold;
+}

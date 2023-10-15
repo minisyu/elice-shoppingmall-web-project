@@ -1,0 +1,61 @@
+.app-header-wrapper {
+  background: rgb(255, 227, 148);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 227, 148, 1) 0%,
+    rgba(255, 171, 0, 1) 100%
+  );
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  line-height: 50px;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  align-items: center;
+}
+.app-header-logo-wrapper {
+  padding-left: 10px;
+}
+.app-header-logo-wrapper > img {
+  width: 100%;
+  height: 50px;
+  cursor: pointer;
+  border-radius: 10px;
+  vertical-align: middle;
+  margin-top: -5px;
+}
+
+.app-header-center-menus-wrapper {
+}
+
+.app-header-center-menus-wrapper > div {
+  cursor: pointer;
+  display: flex;
+}
+
+.app-header-center-menus-wrapper > div > div {
+  margin: 0px 5px;
+  color: white;
+  font-weight: bold;
+}
+.app-header-center-menus-wrapper > div > div:hover {
+  color: black;
+}
+
+.app-header-right-menus-wrapper {
+  padding-right: 10px;
+}
+
+.app-header-right-menus-wrapper > div {
+  display: flex;
+  cursor: pointer;
+}
+.app-header-right-menus-wrapper > div > div {
+  margin: 0px 5px;
+  color: white;
+  font-weight: bold;
+}
+.app-header-right-menus-wrapper > div > div:hover {
+  color: black;
+}

@@ -1,0 +1,25 @@
+.app-product-category {
+  margin: 10px;
+  margin-top: 25px;
+  background-color: gray;
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+}
+
+.app-product-item-list-block {
+  display: flex;
+  width: 100% !important;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.app-product-item {
+  font-size: 15px;
+  font-weight: initial;
+  margin: 0px 10px;
+}
+.app-product-item > img {
+  width: 300px;
+}
