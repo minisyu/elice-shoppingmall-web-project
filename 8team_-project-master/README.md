@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/JavaScript-808000?style=flat-square&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
-    <img src="https://img.shields.io/badge/JSONWebTokens-ff0000?style=flat-square&logo=JSONWebTokens&logoColor=white">
     <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=MongoDB&logoColor=white">
 
 
